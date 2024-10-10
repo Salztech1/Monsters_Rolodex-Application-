@@ -17,8 +17,6 @@ const Card = ({ pmonster: { id, name, email } }) => {
 
 
 export default Card;
-//
-//
 
 
 
